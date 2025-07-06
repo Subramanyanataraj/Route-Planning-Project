@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This project implements a route planner using C++ and OpenStreetMap data, as part of the Udacity C++ Nanodegree Program. The application reads map data, constructs a road network, and uses the A* search algorithm to find the shortest path between two points selected by the user.
 
 <img src="map.png" width="600" height="450" />
 
